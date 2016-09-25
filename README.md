@@ -9,7 +9,7 @@
 * Service Oriented Architecture (SOA)
 * ASP.Net - Restful Service Framework
 * Web API Controllers, Actions and Conventions
-* Single-page Web, Mobile IoT, and Micro-services perspective
+* Single-page Web, Mobile IoT, and Micro-services
 
 ## Chapter 2: MVC Controllers and Views ##
 * MVC Projects in Visual Studio
@@ -55,7 +55,7 @@
 * Code and Attributes for WCF Interface
 * Code for WCF Service Implementation
 * WCF Service Configuration
-* Hands-0n: Creating WCF Service
+* Hands-on: Creating WCF Service
 * Serialization
 * DataContract Attributes
 * Service Interface with Business Entities
@@ -161,7 +161,7 @@
 * Web API Service Security
 * Hands-on: Securing ASP.NET Web API Services
 
-## Chapter 10: Web, Mobile IoT, and Micro-services
+## Chapter 10: Single-page Web, Mobile IoT, and Micro-services
 * Client-side vs Server-Side Html rendering
 * Feature Rich and Rigid WCF 
 * Promises and Limitations of Soa
