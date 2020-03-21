@@ -1,6 +1,6 @@
 # Course outline #
 
-## Chapter 1: Overview of MVC, WCF, and Web API##
+## Chapter 1: Overview of MVC, WCF, and Web API
 * Overview - Web Applications vs Web Services
 * ASP.Net - Web Applications Framework
 * MVC Request and Response
